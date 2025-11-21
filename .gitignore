@@ -1,0 +1,44 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out/
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+
+# Minecraft
+config/
+world/
+saves/
+crash-reports/
+screenshots/
+
+run/
+logs/
+
+# Mod specific - keep template config
+!config/sacredsettlements-protection.toml
+
+# other
+eclipse
+run
+runs
+run-data
+
+# Build outputs
+*.jar
+!gradle-wrapper.jar
+
+repo

@@ -1,0 +1,13 @@
+{
+  "itemGroup.sacredsettlements": "Example Mod Tab",
+  "block.sacredsettlements.example_block": "Example Block",
+  "item.sacredsettlements.example_item": "Example Item",
+
+  "sacredsettlements.configuration.title": "Sacred Settlements Configs",
+  "sacredsettlements.configuration.section.sacredsettlements.common.toml": "Sacred Settlements Configs",
+  "sacredsettlements.configuration.section.sacredsettlements.common.toml.title": "Sacred Settlements Configs",
+  "sacredsettlements.configuration.items": "Item List",
+  "sacredsettlements.configuration.logDirtBlock": "Log Dirt Block",
+  "sacredsettlements.configuration.magicNumberIntroduction": "Magic Number Text",
+  "sacredsettlements.configuration.magicNumber": "Magic Number"
+}

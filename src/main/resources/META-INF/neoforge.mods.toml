@@ -1,0 +1,39 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="sacredsettlements"
+version="1.0.0"
+displayName="Sacred Settlements"
+authors="Bleepz"
+description='''
+Sacred Settlements adds protected, purchasable villages with an emerald-based economy.
+
+Features:
+- Configurable village protection (16-500 block radius)
+- Purchase villages with emeralds
+- Automated tax system with grace periods
+- Owner-only building permissions
+- Clean GUI with real-time stats
+- Persistent data storage across restarts
+
+Perfect for survival servers!
+'''
+logoFile="logo.png"
+credits="Made with claude.ai by Bleepz"
+displayURL="https://github.com/TavariAgent/Sacred-Settlements"
+
+[[dependencies.sacredsettlements]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.215,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.sacredsettlements]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.22)"
+ordering="NONE"
+side="BOTH"
